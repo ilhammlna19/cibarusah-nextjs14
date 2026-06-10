@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/layanan/page": "app/layanan/page.js",
+  "/kegiatan/page": "app/kegiatan/page.js",
+  "/pengumuman/page": "app/pengumuman/page.js",
+  "/kontak/page": "app/kontak/page.js"
+}

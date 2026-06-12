@@ -58,7 +58,7 @@ export default function Footer() {
       {/* COPYRIGHT BAWAH */}
       <div className="max-w-5xl mx-auto px-4 mt-10 pt-6 border-t border-slate-800 text-center text-[11px] text-slate-500 flex flex-col sm:flex-row items-center justify-between gap-2">
         <p>© {tahunSekarang} Kecamatan Cibarusah. All Rights Reserved.</p>
-        <p className="font-semibold text-slate-400">Proyek KKP oleh Ilham Maulana</p>
+        <p className="font-semibold text-slate-400">WEBSITE KECAMATAN CIBARUSAH</p>
       </div>
     </footer>
   );

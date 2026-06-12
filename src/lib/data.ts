@@ -9,15 +9,15 @@ export const NAV_LINKS = [
 ];
 
 export const LEADER = {
-  name: "Drs. Ruslan Abdulgani",
+  name: "RUSDI AZIS, S.IP",
   title: "Camat Cibarusah",
-  photo: "/images/camat.jpg",
+  photo: "/images/camat.jpeg",
   greeting: [
     "Assalamualaikum Warahmatullahi Wabarakatuh. Selamat datang di portal resmi Kecamatan Cibarusah. Melalui platform digital ini, kami berkomitmen untuk menghadirkan keterbukaan informasi publik dan kemudahan akses layanan bagi seluruh elemen masyarakat.",
     "Kami percaya bahwa sinergi antara pemerintah dan warga adalah kunci utama pembangunan. Dengan semangat gotong royong dan integritas, mari kita bersama-sama mewujudkan Kecamatan Cibarusah sebagai wilayah yang unggul di Kabupaten Bekasi.",
     "Terima kasih atas kunjungan Anda, semoga informasi yang kami sediakan dapat bermanfaat untuk kemajuan kita semua.",
   ],
-  motto: "Melayani Dengan Hati",
+  motto: "RUSDI AZIS, S.IP",
 };
 
 export const STATS = [
@@ -80,8 +80,8 @@ export const ANNOUNCEMENTS = [
 
 export const OFFICE_INFO = {
   address: "Jl. Raya Cibarusah No. 1, Bekasi, Jawa Barat 17340",
-  phone: "(021) 8999-XXXX",
-  email: "info@cibarusah.go.id",
+  phone: "0853-6952-4643",
+  email: "cibarusahkecamatan@gmail.com",
   hours: {
     weekday: "Senin – Jumat",
     time: "08.00 – 16.00 WIB",

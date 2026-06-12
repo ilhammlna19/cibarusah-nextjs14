@@ -22,25 +22,15 @@ export default function Footer() {
           </p>
         </div>
 
-        {/* KOLOM 2: TAUTAN CEPAT (Hanya menu yang AKTIF saja) */}
+        {/* KOLOM 2: TAUTAN CEPAT */}
         <div className="space-y-3">
           <h3 className="text-sm font-bold text-white uppercase tracking-wider">Tautan Pintas</h3>
           <ul className="space-y-2 text-xs">
-            <li>
-              <Link href="/" className="hover:text-amber-400 transition-colors">Beranda</Link>
-            </li>
-            <li>
-              <Link href="/layanan" className="hover:text-amber-400 transition-colors">Layanan Publik</Link>
-            </li>
-            <li>
-              <Link href="/pengumuman" className="hover:text-amber-400 transition-colors">Pengumuman</Link>
-            </li>
-            <li>
-              <Link href="/kegiatan" className="hover:text-amber-400 transition-colors">Kegiatan Resmi</Link>
-            </li>
-            <li>
-              <Link href="/kontak" className="hover:text-amber-400 transition-colors">Pusat Kontak & Aduan</Link>
-            </li>
+            <li><Link href="/" className="hover:text-amber-400 transition-colors">Beranda</Link></li>
+            <li><Link href="/layanan" className="hover:text-amber-400 transition-colors">Layanan Publik</Link></li>
+            <li><Link href="/pengumuman" className="hover:text-amber-400 transition-colors">Pengumuman</Link></li>
+            <li><Link href="/kegiatan" className="hover:text-amber-400 transition-colors">Kegiatan Resmi</Link></li>
+            <li><Link href="/kontak" className="hover:text-amber-400 transition-colors">Pusat Kontak & Aduan</Link></li>
           </ul>
         </div>
 
@@ -54,11 +44,11 @@ export default function Footer() {
             </li>
             <li className="flex items-center gap-2">
               <Phone size={16} className="text-amber-500 flex-shrink-0" />
-              <span>(021) 8995XXXX</span>
+              <span>0853-6952-4643</span>
             </li>
             <li className="flex items-center gap-2">
               <Mail size={16} className="text-amber-500 flex-shrink-0" />
-              <span>info@cibarusahkec.go.id</span>
+              <span>cibarusahkecamatan@gmail.com</span>
             </li>
           </ul>
         </div>

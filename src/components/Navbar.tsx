@@ -27,7 +27,7 @@ export default function Navbar() {
             <Landmark className="text-amber-500" size={24} />
             <div className="flex flex-col border-l-2 border-slate-300 pl-2 leading-none">
               <span className="text-sm font-extrabold text-slate-800">CIBARUSAH</span>
-              <span className="text-[10px] font-bold text-slate-500 tracking-wider">PORTAL KKP</span>
+              <span className="text-[10px] font-bold text-slate-500 tracking-wider">PORTAL WEBSITE</span>
             </div>
           </Link>
 
